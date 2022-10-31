@@ -1,3 +1,20 @@
 {
   "players": 300,
+  "bosses":{
+    "enderdragon": {
+      "respawn": 1800,
+      "rewardsKiller": [],
+      "rewardsOnDrop": [
+        "legbook",
+        "rarebook",
+        "rarebook",
+        "commonbook",
+        "commonbook",
+        "commonbook",
+        "lucky_dust5",
+        "repair_dust5"
+      ]
+    }
+  }
+  
 }
